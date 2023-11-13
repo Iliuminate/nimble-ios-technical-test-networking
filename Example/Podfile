@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'nimble-ios-technical-test-networking_Example' do
+  pod 'nimble-ios-technical-test-networking', :path => '../'
+
+  target 'nimble-ios-technical-test-networking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
