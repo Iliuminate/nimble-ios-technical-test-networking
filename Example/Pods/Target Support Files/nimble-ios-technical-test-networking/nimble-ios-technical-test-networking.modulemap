@@ -1,0 +1,6 @@
+framework module nimble_ios_technical_test_networking {
+  umbrella header "nimble-ios-technical-test-networking-umbrella.h"
+
+  export *
+  module * { export * }
+}

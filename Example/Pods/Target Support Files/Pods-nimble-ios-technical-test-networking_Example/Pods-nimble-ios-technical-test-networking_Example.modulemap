@@ -1,0 +1,6 @@
+framework module Pods_nimble_ios_technical_test_networking_Example {
+  umbrella header "Pods-nimble-ios-technical-test-networking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - nimble-ios-technical-test-networking (0.1.0)
+
+DEPENDENCIES:
+  - nimble-ios-technical-test-networking (from `../`)
+
+EXTERNAL SOURCES:
+  nimble-ios-technical-test-networking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  nimble-ios-technical-test-networking: 8e0bb0dd82e7072ddf25631f1a0b769d9a3d5757
+
+PODFILE CHECKSUM: 38dfa081b754a7e3778b522652915557b1564901
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,22 @@
+{
+  "name": "nimble-ios-technical-test-networking",
+  "version": "0.1.0",
+  "summary": "A short description of nimble-ios-technical-test-networking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CarlosDz/nimble-ios-technical-test-networking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CarlosDz": "cdiaz@merqueo.com"
+  },
+  "source": {
+    "git": "https://github.com/CarlosDz/nimble-ios-technical-test-networking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "nimble-ios-technical-test-networking/Classes/**/*"
+}
